@@ -1,7 +1,8 @@
 # pipex
 
 Welcome to my `pipex` project !  
-In this crucial project we must recreate the functionality of the pipes.
+In this crucial project we must recreate the functionality of the pipes.  
+See the [subject](https://github.com/VirgileT/pipex/blob/main/SUBJECT_pipex.pdf).
 
 ## Project Overview
 
